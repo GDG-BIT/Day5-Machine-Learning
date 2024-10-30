@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction
+# 🚢 Titanic Survival Prediction!!
 
 This repository contains a hands-on project on predicting survival on the Titanic using machine learning. The project was developed as part of a lecture on machine learning and model training for beginners.
 
@@ -6,7 +6,7 @@ This repository contains a hands-on project on predicting survival on the Titani
 
 The goal of this project is to predict whether a passenger would survive the Titanic disaster based on various parameters such as age, gender, class, and more. The dataset used for training the model is the popular Titanic dataset, available on [Kaggle](https://www.kaggle.com/c/titanic).
 
-## 💻 Models and Techniques
+## 💻 Models and Techniques!!
 
 The following machine learning algorithms were used:
 - **Decision Tree Classifier**
